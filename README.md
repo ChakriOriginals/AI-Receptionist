@@ -5,6 +5,9 @@
 Run command : 
     streamlit run app.py
 ```
+## Create your Pinecone Vector Database
+![image](https://github.com/user-attachments/assets/3b0a4762-08a1-48ba-8f2b-787973aca5a3)
+
 ### Emergency Case
 ![image](https://github.com/user-attachments/assets/022e9903-679e-46e2-ac22-c909600b4de7)
 
